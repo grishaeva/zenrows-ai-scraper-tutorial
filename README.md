@@ -16,6 +16,7 @@ Before you begin, ensure you have:
 * The `requests` and `beautifulsoup4` libraries installed:
   ```bash
   pip install requests beautifulsoup4
+  ```
 
 ### Step 1: Define the Extraction Logic with AI
 Web scraping often fails because site structures change frequently. To make our scraper adaptable and reduce manual effort, we use AI to generate the parsing function. 
